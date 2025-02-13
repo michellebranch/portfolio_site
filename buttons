@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+button{
+    background-color: bisque;
+    color: brown;
+}
+
+</style>
+
+
+<button>About</button>
+<button>Portfolio</button>
+<button>Github</button>
+<button>Contact</button>
+<button>Surprise</button>
