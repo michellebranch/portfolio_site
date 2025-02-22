@@ -1,5 +1,14 @@
 /* Create your test CSS here */
 
-p {
-    color: red;
-  }
+@font-face {
+  font-family: "PixelifySans";
+  src: url("./fonts/PixelifySans-VariableFont_wght.ttf");
+}
+
+body {
+  font-family: "PixelifySans", sans-serif;
+  background-color: #121212;
+  font-size: 14px;
+  color: aliceblue;
+
+}
